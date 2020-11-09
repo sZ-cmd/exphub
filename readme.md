@@ -9,7 +9,7 @@ EDUCATIONAL PURPOSE & LEGITIMATE AUTHORISED PENTESTING.
 Has been released ---> https://github.com/zhzyker/vulmap
 
 # Exphub
-Exphub[Exploit Script Library] (want star⭐~)
+Exphub[Exploit Script Library] 
 Currently, exploit scripts including Webloigc, Struts2, Tomcat, and Drupal are all script files available for pro-testing. We will try our best to complete the instructions for all script files, and update high-risk and easy-to-use exploit scripts first.
 Some scripts or files are collected, if there is a copyright request, please contact us to change it
 Geese: 219291257
